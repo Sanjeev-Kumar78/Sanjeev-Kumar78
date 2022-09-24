@@ -2,8 +2,7 @@
 <h3 align="center">I'm a School Student & Developer as well as Tech-Enthusiast!!</h3>
 
 - 🌱 I’m currently learning **Python Data Structures and Algorithms**
-- I am a student, web designer, and developer. I am skilled in a variety of languages, including HTML, Python, CSS, and Photoshop. I also know Adobe Photoshop and love editing photos. My main interest is photography but also like to work with regular coding as well as web designing.
-Sanjeev Kumar
+
 
 
 <h2 align="left">Connect with me:</h2>
