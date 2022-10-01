@@ -25,4 +25,4 @@
 [![@SanjeevKumar's Holopin board](https://holopin.io/api/user/board?user=SanjeevKumar)](https://holopin.io/@SanjeevKumar)
 
 ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=radical)
-<!-- ![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical) -->
+![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical)
