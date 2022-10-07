@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
+<img align="center" width="100%" src="20221007_1526401.gif"/>
 <a target="_blank">
 
   
