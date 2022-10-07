@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
-<img align="center" width="100%" src="20221007_1526401.gif"/>
+
+![20221007_235008_0000](https://user-images.githubusercontent.com/62820550/194625654-bb212649-4895-4a4c-8557-800782405f04.png)
 <a target="_blank">
 
   
