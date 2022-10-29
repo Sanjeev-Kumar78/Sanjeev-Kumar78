@@ -20,8 +20,10 @@
 <a href="https://www.behance.net/sanjeevkumar48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sanjeevkumar48" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@premchandrasing1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@premchandrasing1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanjeevkumar032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanjeevkumar032" height="30" width="40" /></a>
+<a href="https://t.me/Sanjeev032">
+<img align="center" src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40">
+</a>
 
-[![Telegram](https://img.shields.io/badge/Telegram-DM-darkcyan)](https://t.me/Sanjeev032)
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjeev-kumar78&label=Profile%20views&color=0e75b6&style=flat")
 
 <h3 align="left">Languages and Tools:</h3>
