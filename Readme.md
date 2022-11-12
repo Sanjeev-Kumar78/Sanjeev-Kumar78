@@ -12,7 +12,6 @@
 
 - 🌱 I’m currently learning **Python Data Structures and Algorithms**
 
-
 <h2 align="left">Connect with me:</h2>
 
 
