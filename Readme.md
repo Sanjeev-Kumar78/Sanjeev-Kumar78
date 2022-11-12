@@ -1,13 +1,6 @@
-<style>
-    body{
-        background-image: linear-gradient(43deg, #bebebe 15%, #514e4e 20%, #a3a3a3 46%, #000000 100%);
-
-    }
-
-</style>
 
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
-
+<body bgcolor="Black">
 
 ![20221007_235008_0000](https://user-images.githubusercontent.com/62820550/194625654-bb212649-4895-4a4c-8557-800782405f04.png)
 <a target="_blank">
@@ -18,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python Data Structures and Algorithms**
 
-
+</body>
 
 <h2 align="left">Connect with me:</h2>
 
