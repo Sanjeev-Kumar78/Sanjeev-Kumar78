@@ -1,3 +1,10 @@
+<style>
+    body{
+        background-image: linear-gradient(43deg, #bebebe 15%, #514e4e 20%, #a3a3a3 46%, #000000 100%);
+
+    }
+
+</style>
 
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
 
