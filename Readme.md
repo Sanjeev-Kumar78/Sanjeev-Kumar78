@@ -23,7 +23,9 @@
 <img align="center" src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40">
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanjeev-kumar78&label=Profile%20views&color=0e75b6&style=flat")
+***
+* Profile Views:
+* ![Profile Views](https://komarev.com/ghpvc/?username=sanjeev-kumar78&label=_____&color=0e75b6&style=for-the-badge")
 
 <h3 align="left">Languages and Tools:</h3>
 <!--  CSS  -->
@@ -55,5 +57,7 @@
   
 ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple)
 ![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical)
+* [![Star this repository](https://img.shields.io/github/stars/Sanjeev-Kumar78/Sanjeev-Kumar78.svg?style=social&label=Star)](https://github.com/Sanjeev-Kumar78/Sanjeev-Kumar78)
+
 
   
