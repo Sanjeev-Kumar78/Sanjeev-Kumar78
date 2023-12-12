@@ -23,6 +23,9 @@
 <img align="center" src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40">
 </a>
 
+[![image](https://github.com/Sanjeev-Kumar78/Sanjeev-Kumar78/assets/62820550/4edeea0d-596b-4d99-bbfe-5f5a31ced278)](https://www.kaggle.com/sanjeevkumar78/)
+[![image](https://github.com/Sanjeev-Kumar78/Sanjeev-Kumar78/assets/62820550/4a9a9ae1-a736-4c2a-a5ae-88c3670cd24c)](https://www.codingninjas.com/studio/profile/f136673e-6e6d-4e88-843e-e1b758eddcc1)
+
 ***
 * Profile Views:
 * ![Profile Views](https://komarev.com/ghpvc/?username=sanjeev-kumar78&label=_____&color=0e75b6&style=for-the-badge")
