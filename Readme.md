@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev</h1>
 
 
-![20221007_235008_0000](https://user-images.githubusercontent.com/62820550/194625654-bb212649-4895-4a4c-8557-800782405f04.png)
+<!--![20221007_235008_0000](https://user-images.githubusercontent.com/62820550/194625654-bb212649-4895-4a4c-8557-800782405f04.png)-->
 
 <a target="_blank">
 <img align="right" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only"/>
