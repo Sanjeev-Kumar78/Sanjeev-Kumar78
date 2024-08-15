@@ -10,7 +10,7 @@
 
 <h3 align="center">I'm a Student & Developer as well as Tech-Enthusiast!!</h3>
 
-- 🌱 I’m currently learning **Python Data Structures and Algorithms**
+- 🌱 I'm currently a first-year student, eager to build a strong foundation in computer science.
 
 <h2 align="left">Connect with me:</h2>
 
