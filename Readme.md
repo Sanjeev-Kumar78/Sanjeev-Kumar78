@@ -34,8 +34,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=midnight-purple)](https://github.com/Sanjeev-Kumar78/github-readme-stats)
 
-[![@SanjeevKumar's Holopin board](https://holopin.io/api/user/board?user=SanjeevKumar)](https://holopin.io/@SanjeevKumar)
-  
+<div>
+<kbd>
+
+[![@SanjeevKumar's Holopin badges](https://holopin.me/SanjeevKumar)](https://holopin.io/@SanjeevKumar)
+</kbd>
+</div>
+
+<br>
+
 <!-- ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple) -->
 
 ![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical)
