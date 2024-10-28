@@ -47,11 +47,12 @@
 
 ![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical)
 
+<!--
 <h5 align="center">
   
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=churchill&font=Architect&quoteType=quote-for-the-day&fontColor=lavender)
 </h5>
-
+-->
 [![Sanjeev Kumar profile views](https://u8views.com/api/v1/github/profiles/62820550/views/total-count.svg)](https://u8views.com/github/Sanjeev-Kumar78)
 
   
