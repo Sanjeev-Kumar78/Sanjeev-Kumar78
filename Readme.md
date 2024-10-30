@@ -23,7 +23,7 @@
 
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/sanjeevkumar032)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Sanjeev-Kumar78/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@premchandrasing1)
+<!--[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@premchandrasing1)-->
 [![CodingNinja](https://img.shields.io/badge/Coding%20Ninjas-DD6620.svg?style=for-the-badge&logo=Coding-Ninjas&logoColor=white)](https://www.naukri.com/code360/profile/f136673e-6e6d-4e88-843e-e1b758eddcc1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjeevkumar78/)
 <h3 align="left">Languages and Tools:</h3>
