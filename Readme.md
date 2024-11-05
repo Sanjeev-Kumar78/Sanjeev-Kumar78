@@ -28,11 +28,12 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjeevkumar78/)
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,python,cpp,linux,mysql,mongodb,postman,javascript,nodejs,html,css,bootstrap,ai,ps&perline=8)
+![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,python,flask,pandas,numpy,cpp,linux,mysql,mongodb,postman,javascript,nodejs,html,css,bootstrap,ai,ps&perline=8)
 
 ![image](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=midnight-purple)](https://github.com/Sanjeev-Kumar78/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=Sanjeev-Kumar78&layout=compact&theme=midnight-purple)](https://github.com/Sanjeev-Kumar78/github-readme-stats)
 
 <div>
 <kbd>
@@ -54,4 +55,9 @@
 
 [![Sanjeev Kumar profile views](https://u8views.com/api/v1/github/profiles/62820550/views/total-count.svg)](https://u8views.com/github/Sanjeev-Kumar78)
 
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;"
+  />
+</h3>
   
