@@ -28,7 +28,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjeevkumar78/)
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,python,flask,cpp,linux,mysql,mongodb,postman,javascript,nodejs,html,css,bootstrap,ai,ps&perline=8)
+![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,python,flask,django,cpp,linux,mysql,mongodb,postman,javascript,react,nodejs,html,css,bootstrap,ai,ps&perline=8)
 
 ![image](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
