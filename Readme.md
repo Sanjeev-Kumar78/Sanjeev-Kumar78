@@ -45,14 +45,13 @@
 
 <!-- ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple) -->
 
-![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical)
+<!-- ![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical) -->
 
 <h5 align="center">
-
+  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)
 </h5>
 
-[![Sanjeev Kumar profile views](https://u8views.com/api/v1/github/profiles/62820550/views/total-count.svg)](https://u8views.com/github/Sanjeev-Kumar78)
 
 <h3 align="center">
   <img
@@ -60,3 +59,4 @@
   />
 </h3>
   
+[![Sanjeev Kumar profile views](https://u8views.com/api/v1/github/profiles/62820550/views/total-count.svg)](https://u8views.com/github/Sanjeev-Kumar78)
