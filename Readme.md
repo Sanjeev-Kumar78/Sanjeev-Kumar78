@@ -32,24 +32,26 @@
 
 ![image](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=midnight-purple)](https://github.com/Sanjeev-Kumar78/github-readme-stats)
 
 <div>
 <kbd>
 
 [![@SanjeevKumar's Holopin badges](https://holopin.me/SanjeevKumar)](https://holopin.io/@SanjeevKumar)
+    
+![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=midnight-purple)](https://github.com/Sanjeev-Kumar78/github-readme-stats)
 </kbd>
 </div>
 
 <br>
 
-![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple)
 
 <!-- ![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical) -->
 
 <h5 align="center">
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)
+<br>
 </h5>
 
 
