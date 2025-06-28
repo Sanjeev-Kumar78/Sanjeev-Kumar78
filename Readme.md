@@ -43,7 +43,7 @@
 
 <br>
 
-<!-- ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple) -->
+![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple)
 
 <!-- ![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical) -->
 
