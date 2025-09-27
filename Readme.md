@@ -19,13 +19,14 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sanjeev-kumar78)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sanjeevkumar78)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sanjeev032)
-<h3 align="left">Coding Profiles:</h3>
+
+<!-- <h3 align="left">Coding Profiles:</h3>
 
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/sanjeevkumar032)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Sanjeev-Kumar78/)
-<!--[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@premchandrasing1)-->
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@premchandrasing1)
 [![CodingNinja](https://img.shields.io/badge/Coding%20Ninjas-DD6620.svg?style=for-the-badge&logo=Coding-Ninjas&logoColor=white)](https://www.naukri.com/code360/profile/f136673e-6e6d-4e88-843e-e1b758eddcc1)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjeevkumar78/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjeevkumar78/) -->
 <h3 align="left">Languages and Tools:</h3>
 
 ![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,python,flask,django,cpp,linux,mysql,mongodb,postman,javascript,react,nodejs,html,css,bootstrap,ai,ps&perline=8)
