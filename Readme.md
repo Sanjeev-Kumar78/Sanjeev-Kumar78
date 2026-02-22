@@ -39,8 +39,15 @@
 
 [![@SanjeevKumar's Holopin badges](https://holopin.me/SanjeevKumar)](https://holopin.io/@SanjeevKumar)
     
+<!--
 ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=midnight-purple)](https://github.com/Sanjeev-Kumar78/github-readme-stats)
+-->
+<div align="center">
+  <a href="https://github.com/Sanjeev-Kumar78">
+    <img src="github-metrics.svg" alt="Sanjeev's GitHub Metrics" width="60%" style="max-width: 400px;">
+  </a>
+</div>
 </kbd>
 </div>
 
