@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  # Schedule monthly updates (Runs at 00:00 on the 1st of every month)
+  schedule: [{cron: "0 0 1 * *"}]
   # Allow manual trigger
   workflow_dispatch:
   # Run on every push to the master/main branch
@@ -13,14 +13,21 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
+          # Your GitHub Classic Token
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Size Optimization (Minifies the final SVG file)
+          optimize: css, xml
           
           # Options
           user: Sanjeev-Kumar78
           template: classic
-          base: header, activity, community, repositories, metadata
+          
+          # Trimmed base stats (removed metadata to save space)
+          base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
+          
+          # Languages Plugin (Tuned to reduce visual height)
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
