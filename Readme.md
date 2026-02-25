@@ -1,72 +1,103 @@
-
-<h1 align="center">Hi 👋, I'm Sanjeev</h1>
-
-
-
-
-<a target="_blank">
-<img align="right" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only"/>
-<img align="right" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only"/>
-
-<h3 align="center">I'm a Student & Developer as well as Tech-Enthusiast!!</h3>
-
-- 🌱 I'm currently a college student, eager to build a strong foundation in computer science.
-
-
-<h3 align="left">Connect with me:</h3>
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"/>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sanjeev-kumar78)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sanjeevkumar78)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sanjeev032)
-
-<!-- <h3 align="left">Coding Profiles:</h3>
-
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/sanjeevkumar032)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Sanjeev-Kumar78/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/@premchandrasing1)
-[![CodingNinja](https://img.shields.io/badge/Coding%20Ninjas-DD6620.svg?style=for-the-badge&logo=Coding-Ninjas&logoColor=white)](https://www.naukri.com/code360/profile/f136673e-6e6d-4e88-843e-e1b758eddcc1)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjeevkumar78/) -->
-<h3 align="left">Languages and Tools:</h3>
-
-![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,python,flask,django,cpp,linux,mysql,mongodb,postman,javascript,react,nodejs,html,css,bootstrap,ai,ps&perline=8)
-
-![image](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
-
-<div>
-<kbd>
-
-[![@SanjeevKumar's Holopin badges](https://holopin.me/SanjeevKumar)](https://holopin.io/@SanjeevKumar)
-    
-<!--
-![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=midnight-purple)](https://github.com/Sanjeev-Kumar78/github-readme-stats)
--->
 <div align="center">
+  <h1>Hi 👋, I'm Sanjeev Kumar</h1>
+  <h3>Student | Full-Stack Developer | Tech Enthusiast</h3>
+  
+  <p>
+    <em>Passionate about building scalable web applications and exploring Cloud Computing & AI.</em>
+  </p>
+
+  <p>
+    <a href="https://sanjeev-kumar78.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/sanjeev-kumar78"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sanjeev-kumar78@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://discord.com/users/sanjeevkumar78"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://t.me/Sanjeev032"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+-  I’m currently a **Computer Science Engineering** undergraduate focusing on **Full-Stack Web Development** and smart, **ML-powered applications**.
+- I build with **React, Python, TypeScript, and Tailwind CSS**, aiming to create scalable, user-centric solutions.
+- 💬 Ask me about **Python, C++, JavaScript, TypeScript, React, Node.js, and Machine Learning**.
+- 📫 Open to **Software Engineering Internships, Collaborations, and Entry-Level Roles**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <h3>🌐 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,ts,html,css,bootstrap,tailwindcss,react,nextjs,redux,figma&perline=10" alt="Frontend" />
+  
+  <br><br>
+
+  <h3>⚙️ Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,mysql,mongodb,postgresql,supabase&perline=10" alt="Backend" />
+
+  <br><br>
+
+  <h3>☁️ DevOps/Tools</h3>
+  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify,docker,kubernetes,git,githubactions,linux,nginx,bash,postman&perline=10" alt="DevOps" />
+
+  <br><br>
+
+  <h3>🤖 ML/Data</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=10" alt="ML" />
+</div>
+
+---
+
+<!-- ### 🚀 Coding Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/u/Sanjeev-Kumar78/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sanjeevkumar032"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" /></a>
+  <a href="https://www.hackerrank.com/@premchandrasing1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" /></a>
+  <a href="https://www.naukri.com/code360/profile/f136673e-6e6d-4e88-843e-e1b758eddcc1"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=Coding-Ninjas&logoColor=white" alt="CodingNinjas" /></a>
+  <a href="https://www.kaggle.com/sanjeevkumar78/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+</div>
+
+--- -->
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <!-- GitHub Readme Stats (Currently experiencing 503 errors from the public Vercel instance)
   <a href="https://github.com/Sanjeev-Kumar78">
-    <img src="github-metrics.svg" alt="Sanjeev's GitHub Metrics" width="60%" style="max-width: 400px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=default&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sanjeev-Kumar78&show_icons=true&theme=radical&hide_border=true" alt="Sanjeev's GitHub stats" width="48%">
+    </picture>
+  </a>
+  <a href="https://github.com/Sanjeev-Kumar78">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=default&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Kumar78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
+    </picture>
+  </a>
+  <br><br>
+  -->
+  <!-- Generated Metrics -->
+  <a href="https://github.com/Sanjeev-Kumar78">
+    <img src="github-metrics.svg" alt="Sanjeev's GitHub Metrics" width="80%" style="max-width: 400px;">
+  </a>
+  <br><br>
+  <!-- Holopin Badges -->
+  <a href="https://holopin.io/@SanjeevKumar">
+    <img src="https://holopin.me/SanjeevKumar" alt="@SanjeevKumar's Holopin badges" width="100%" style="max-width: 800px;">
   </a>
 </div>
-</kbd>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Quote" />
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;Have+a+great+day!+🌟" alt="Typing SVG" />
+  <br><br>
+  <a href="https://u8views.com/github/Sanjeev-Kumar78"><img src="https://u8views.com/api/v1/github/profiles/62820550/views/total-count.svg" alt="Profile Views" /></a>
 </div>
-
-<br>
-
-
-<!-- ![Sanjeev's Trophy ](https://github-profile-trophy.vercel.app/?username=Sanjeev-Kumar78&theme=radical) -->
-
-<h5 align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true)
-<br>
-</h5>
-
-
-<h3 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;"
-  />
-</h3>
-  
-[![Sanjeev Kumar profile views](https://u8views.com/api/v1/github/profiles/62820550/views/total-count.svg)](https://u8views.com/github/Sanjeev-Kumar78)
