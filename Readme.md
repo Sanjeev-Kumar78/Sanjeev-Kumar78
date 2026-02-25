@@ -28,23 +28,46 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <h3>🌐 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,ts,html,css,bootstrap,tailwindcss,react,nextjs,redux,figma&perline=10" alt="Frontend" />
-  
-  <br><br>
-
-  <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,mysql,mongodb,postgresql,supabase&perline=10" alt="Backend" />
-
-  <br><br>
-
-  <h3>☁️ DevOps/Tools</h3>
-  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify,docker,kubernetes,git,githubactions,linux,nginx,bash,postman&perline=10" alt="DevOps" />
-
-  <br><br>
-
-  <h3>🤖 ML/Data</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=10" alt="ML" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>💻 Languages</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=cpp,java,c,python,js,ts&perline=6" alt="Languages" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🌐 Frontend</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,nextjs,redux,figma&perline=6" alt="Frontend" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>⚙️ Backend</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring&perline=6" alt="Backend" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🗄️ Database</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase&perline=6" alt="Database" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🤖 ML/Data</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6" alt="ML" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>☁️ DevOps/Tools</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,netlify,docker,kubernetes,git,githubactions,linux,nginx,bash,postman&perline=12" alt="DevOps" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
